@@ -1,7 +1,7 @@
 import './App.css';
-import TopBar from "./components/TopBar";
-import Navbar from "./components/Navbar";
-import Carousels from "./components/Carousels";
+import TopBar from "./components/Topbar/Index";
+import Navbar from "./components/Navbar/Index";
+import Carousels from "./components/Carousels/Index";
 
 function App() {
   return (
