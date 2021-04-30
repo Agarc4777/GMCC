@@ -1,0 +1,11 @@
+.container {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+.navbar {
+    background-color: red;
+}
