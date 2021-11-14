@@ -1,1 +1,2 @@
-# SCCC
+# GMCC
+
